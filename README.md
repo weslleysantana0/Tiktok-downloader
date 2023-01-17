@@ -1,7 +1,7 @@
 # Tiktok Downloader PySide6 or PyQt6
 
 <h4 align="center">
-  ☕ Code and coffee
+  
 </h4>
 
 ## Tecnologias
